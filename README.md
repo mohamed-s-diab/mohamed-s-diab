@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Live%20Report-Interactive%20Monograph-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Interactive Monograph" />
   </a>
   <a href="https://mohamed-s-diab.github.io/">
-    <img src="https://img.shields.io/badge/Personal%20Website-mohamed-s-diab.github.io-161B22?style=for-the-badge&logo=safari&logoColor=2997FF" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/Personal%20Website-mohamed--s--diab.github.io-161B22?style=for-the-badge&logo=safari&logoColor=2997FF" alt="Personal Website" />
   </a>
   <a href="https://github.com/mohamed-s-diab">
     <img src="https://img.shields.io/badge/Compliance-PRISMA--NMA%202015-238636?style=for-the-badge&logoColor=white" alt="PRISMA-NMA" />
