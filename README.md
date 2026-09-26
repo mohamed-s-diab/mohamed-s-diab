@@ -20,6 +20,14 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Quarto-4A9CD6?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
+  <img src="https://img.shields.io/badge/LaTeX-474747?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
+<p align="center">
   <a href="https://orcid.org/0009-0003-3143-387X">
     <img src="https://img.shields.io/badge/ORCID-0009--0003--3143--387X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
@@ -167,6 +175,32 @@ An enterprise-grade, fully reproducible research engine evaluating first-line sy
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Computational Tooling & Core Stack
+
+<div align="center">
+
+<p align="center">
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://quarto.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Quarto-4A9CD6?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/LaTeX-474747?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  </a>
+</p>
+
+</div>
 
 ---
 
