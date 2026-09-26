@@ -5,16 +5,16 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis">
+  <a href="https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis">
     <img src="https://img.shields.io/badge/Flagship%20Engine-nma--nsclc--evidence--synthesis-0071E3?style=for-the-badge&logo=r&logoColor=white" alt="Flagship Engine" />
   </a>
-  <a href="https://mohamed101010101.github.io/nma-nsclc-evidence-synthesis/">
+  <a href="https://mohamed-s-diab.github.io/nma-nsclc-evidence-synthesis/">
     <img src="https://img.shields.io/badge/Live%20Report-Interactive%20Monograph-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Interactive Monograph" />
   </a>
-  <a href="https://mohamed101010101.github.io/">
-    <img src="https://img.shields.io/badge/Personal%20Website-mohamed101010101.github.io-161B22?style=for-the-badge&logo=safari&logoColor=2997FF" alt="Personal Website" />
+  <a href="https://mohamed-s-diab.github.io/">
+    <img src="https://img.shields.io/badge/Personal%20Website-mohamed-s-diab.github.io-161B22?style=for-the-badge&logo=safari&logoColor=2997FF" alt="Personal Website" />
   </a>
-  <a href="https://github.com/Mohamed101010101">
+  <a href="https://github.com/mohamed-s-diab">
     <img src="https://img.shields.io/badge/Compliance-PRISMA--NMA%202015-238636?style=for-the-badge&logoColor=white" alt="PRISMA-NMA" />
   </a>
 </p>
@@ -92,7 +92,7 @@ flowchart LR
 
 ## 🏆 Flagship Landmark Repository
 
-### 🩺 [`nma-nsclc-evidence-synthesis`](https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis)
+### 🩺 [`nma-nsclc-evidence-synthesis`](https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis)
 > **Publication-Grade Frequentist Network Meta-Analysis Engine for Advanced Oncology**
 
 An enterprise-grade, fully reproducible research engine evaluating first-line systemic immunotherapies and chemotherapies in advanced non-small cell lung cancer (NSCLC):
@@ -119,15 +119,15 @@ An enterprise-grade, fully reproducible research engine evaluating first-line sy
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis#figure-01--evidence-network-geometry">
-        <img src="https://raw.githubusercontent.com/Mohamed101010101/nma-nsclc-evidence-synthesis/main/outputs/figures/01_network_geometry.png" width="100%" alt="Figure 01: Star-Loop Network Geometry" />
+      <a href="https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis#figure-01--evidence-network-geometry">
+        <img src="https://raw.githubusercontent.com/mohamed-s-diab/nma-nsclc-evidence-synthesis/main/outputs/figures/01_network_geometry.png" width="100%" alt="Figure 01: Star-Loop Network Geometry" />
       </a>
       <br/>
       <sub><b>Figure 01:</b> Multi-arm star-loop network geometry (24 RCTs · 15,753 Patients)</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis#figure-11--benefit-risk-trade-off-plane">
-        <img src="https://raw.githubusercontent.com/Mohamed101010101/nma-nsclc-evidence-synthesis/main/outputs/figures/11_benefit_risk_tradeoff.png" width="100%" alt="Figure 11: Benefit-Risk Trade-Off" />
+      <a href="https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis#figure-11--benefit-risk-trade-off-plane">
+        <img src="https://raw.githubusercontent.com/mohamed-s-diab/nma-nsclc-evidence-synthesis/main/outputs/figures/11_benefit_risk_tradeoff.png" width="100%" alt="Figure 11: Benefit-Risk Trade-Off" />
       </a>
       <br/>
       <sub><b>Figure 11:</b> Bivariate benefit-risk plane (Overall Survival HR vs Grade 3–5 Toxicity OR)</sub>
@@ -289,7 +289,7 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
 **Faculty of Medicine, Modern University for Technology and Information (MTI), Cairo, Egypt**
 
 <p align="center">
-  <a href="https://mohamed101010101.github.io/cv.html">
+  <a href="https://mohamed-s-diab.github.io/cv.html">
     <img src="https://img.shields.io/badge/Academic%20CV-Download%20PDF-0071E3?style=flat-square&logo=academia&logoColor=white" alt="Academic CV" />
   </a>
   <a href="https://orcid.org/0009-0003-3143-387X">
@@ -304,7 +304,7 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
   <a href="mailto:Mohamed.98478@Medicine.mti.edu.eg">
     <img src="https://img.shields.io/badge/Institutional%20Email-Mohamed.98478%40Medicine.mti.edu.eg-0071E3?style=flat-square&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
-  <a href="https://mohamed101010101.github.io/">
+  <a href="https://mohamed-s-diab.github.io/">
     <img src="https://img.shields.io/badge/Portfolio%20Website-Live-black?style=flat-square&logo=safari&logoColor=2997FF" alt="Portfolio Website" />
   </a>
 </p>
