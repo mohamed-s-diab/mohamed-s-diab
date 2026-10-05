@@ -5,10 +5,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis">
-    <img src="https://img.shields.io/badge/Flagship%20Engine-nma--nsclc--evidence--synthesis-0071E3?style=for-the-badge&logo=r&logoColor=white" alt="Flagship Engine" />
+  <a href="https://github.com/mohamed-s-diab/nma-evidence-synthesis">
+    <img src="https://img.shields.io/badge/Flagship%20Engine-nma--evidence--synthesis-0071E3?style=for-the-badge&logo=r&logoColor=white" alt="Flagship Engine" />
   </a>
-  <a href="https://mohamed-s-diab.github.io/nma-nsclc-evidence-synthesis/">
+  <a href="https://mohamed-s-diab.github.io/nma-evidence-synthesis/">
     <img src="https://img.shields.io/badge/Live%20Report-Interactive%20Monograph-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Interactive Monograph" />
   </a>
   <a href="https://mohamed-s-diab.github.io/">
@@ -92,19 +92,19 @@ flowchart LR
 
 ## 🏆 Flagship Landmark Repository
 
-### 🩺 [`nma-nsclc-evidence-synthesis`](https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis)
-> **Publication-Grade Frequentist Network Meta-Analysis Engine for Advanced Oncology**
+### 🩺 [`nma-evidence-synthesis`](https://github.com/mohamed-s-diab/nma-evidence-synthesis)
+> **Reproducible Frequentist Network Meta-Analysis Framework (Multi-Treatment Evidence Synthesis)**
 
-An enterprise-grade, fully reproducible research engine evaluating first-line systemic immunotherapies and chemotherapies in advanced non-small cell lung cancer (NSCLC):
+An enterprise-grade, fully reproducible research engine evaluating multi-arm, multi-treatment trial evidence:
 
 - 📊 **Curated Clinical Base:** 24 landmark randomized controlled trials comprising **15,753 patients**.
 - ⚙️ **Modular Execution:** 12 sequential mathematical engines (`01_fit_nma_model.R` through `12_mcid_analysis.R`).
 - 🔬 **Sensitivity & Rigor:** Full leave-one-out cross-validation, design-by-treatment tests, and 10,000-scenario Monte Carlo simulations.
-- 🎨 **Visual Portfolio:** 14 high-resolution, 300-DPI vector exhibits adhering strictly to *Lancet*, *NEJM*, and *JAMA Oncology* guidelines.
+- 🎨 **Visual Portfolio:** 14 high-resolution, 300-DPI vector exhibits adhering strictly to leading biomedical publishing standards.
 - 📜 **Reproducibility Guarantee:** Curated data tables, exact session lockfile parameters, and complete open-source code under the MIT License.
 
 ```
-📁 nma-nsclc-evidence-synthesis/
+📁 nma-evidence-synthesis/
 ├── 📂 data/                 # Systematic extraction matrices (OS, PFS, Grade 3-5 Toxicities)
 ├── 📂 scripts/analyses/     # 12 sequential mathematical engines (Modular R pipeline)
 ├── 📂 outputs/figures/      # 14 publication-grade 300 DPI exhibits (Vector PDF & PNG)
@@ -119,15 +119,15 @@ An enterprise-grade, fully reproducible research engine evaluating first-line sy
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis#figure-01--evidence-network-geometry">
-        <img src="https://raw.githubusercontent.com/mohamed-s-diab/nma-nsclc-evidence-synthesis/main/outputs/figures/01_network_geometry.png" width="100%" alt="Figure 01: Star-Loop Network Geometry" />
+      <a href="https://github.com/mohamed-s-diab/nma-evidence-synthesis#figure-01--evidence-network-geometry">
+        <img src="https://raw.githubusercontent.com/mohamed-s-diab/nma-evidence-synthesis/main/outputs/figures/01_network_geometry.png" width="100%" alt="Figure 01: Star-Loop Network Geometry" />
       </a>
       <br/>
       <sub><b>Figure 01:</b> Multi-arm star-loop network geometry (24 RCTs · 15,753 Patients)</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/mohamed-s-diab/nma-nsclc-evidence-synthesis#figure-11--benefit-risk-trade-off-plane">
-        <img src="https://raw.githubusercontent.com/mohamed-s-diab/nma-nsclc-evidence-synthesis/main/outputs/figures/11_benefit_risk_tradeoff.png" width="100%" alt="Figure 11: Benefit-Risk Trade-Off" />
+      <a href="https://github.com/mohamed-s-diab/nma-evidence-synthesis#figure-11--benefit-risk-trade-off-plane">
+        <img src="https://raw.githubusercontent.com/mohamed-s-diab/nma-evidence-synthesis/main/outputs/figures/11_benefit_risk_tradeoff.png" width="100%" alt="Figure 11: Benefit-Risk Trade-Off" />
       </a>
       <br/>
       <sub><b>Figure 11:</b> Bivariate benefit-risk plane (Overall Survival HR vs Grade 3–5 Toxicity OR)</sub>
