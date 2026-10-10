@@ -45,26 +45,13 @@ Medical student and researcher with a focus on biostatistical evidence synthesis
 ### 📬 Academic Profiles & Inquiries
 
 <p align="center">
-  <a href="mailto:Mohamed.98478@Medicine.mti.edu.eg">
-    <img src="https://img.shields.io/badge/Institutional_Email-0071E3?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0003-3143-387X" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/ORCID_Record-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=_tJ3MkYAAAAJ" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Mohamed-Said-Mohamed-Diab" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
+  <a href="mailto:Mohamed.98478@Medicine.mti.edu.eg"><img src="https://img.shields.io/badge/Email-0071E3?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://orcid.org/0009-0003-3143-387X" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a> <a href="https://scholar.google.com/citations?user=_tJ3MkYAAAAJ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a> <a href="https://www.researchgate.net/profile/Mohamed-Said-Mohamed-Diab" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 </p>
 
-| Channel | Identity & Official Record | Action Link |
+| Platform | Verified Record / Identifier | Quick Action |
 | :--- | :--- | :--- |
-| **Institutional Email** | `Mohamed.98478@Medicine.mti.edu.eg` | [Send Inquiries](mailto:Mohamed.98478@Medicine.mti.edu.eg) |
-| **ORCID** | `0009-0003-3143-387X` | [View Record](https://orcid.org/0009-0003-3143-387X) |
-| **Google Scholar** | `Mohamed Said Diab` | [Citations & Publications](https://scholar.google.com/citations?user=_tJ3MkYAAAAJ) |
-| **ResearchGate** | `Mohamed Said Mohamed Diab` | [Research Profile](https://www.researchgate.net/profile/Mohamed-Said-Mohamed-Diab) |
+| [![Email](https://img.shields.io/badge/Institutional_Email-0071E3?style=flat-square&logo=gmail&logoColor=white)](mailto:Mohamed.98478@Medicine.mti.edu.eg) | `Mohamed.98478@Medicine.mti.edu.eg` | [Send Inquiries](mailto:Mohamed.98478@Medicine.mti.edu.eg) |
+| [![ORCID](https://img.shields.io/badge/ORCID_Record-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3143-387X) | `0009-0003-3143-387X` | [View Record](https://orcid.org/0009-0003-3143-387X) |
+| [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_tJ3MkYAAAAJ) | `Mohamed Said Diab` | [Citations & Publications](https://scholar.google.com/citations?user=_tJ3MkYAAAAJ) |
+| [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohamed-Said-Mohamed-Diab) | `Mohamed Said Mohamed Diab` | [Research Profile](https://www.researchgate.net/profile/Mohamed-Said-Mohamed-Diab) |
+
